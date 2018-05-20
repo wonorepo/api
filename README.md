@@ -1,8 +1,11 @@
-## HOW TO SET UP THIS REPO
+## HOW TO SET UP THIS PROJECT
 
-STEPS
+GITHUB PUSH INTEGRATION
 
-1. git clone https://bitbucket.org/wonorepo/protocol/src/dev/
-2. cd dev
-3. git config user.email "{YOUR_MAIL}@wono.io"
-4. git remote set-url origin --add https://github.com/wonorepo/api
+1. clone this repo and change directory to it
+2. git config user.email "{YOUR_MAIL}@wono.io"
+3. git remote set-url origin --add https://github.com/wonorepo/api
+
+---
+
+
